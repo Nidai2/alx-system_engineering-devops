@@ -5,3 +5,5 @@
 2-bring_me_home, changes the working directory to the home directory
 
 3-listfiles, prints out a verbose output of the files and folders in current directory
+
+4-listmorefiles, prits out files and folders in current directory in addtition to hidden files
