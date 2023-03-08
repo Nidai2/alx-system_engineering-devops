@@ -1,0 +1,1 @@
+This repository is a repository about shell commands, and ALX assignment

@@ -1,0 +1,1 @@
+0-current_working_directory script prints my current working directory to the terminal
