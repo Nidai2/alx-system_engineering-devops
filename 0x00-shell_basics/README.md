@@ -7,3 +7,5 @@
 3-listfiles, prints out a verbose output of the files and folders in current directory
 
 4-listmorefiles, prits out files and folders in current directory in addtition to hidden files
+
+5-listfilesdigitonly, prints out files by gid only
