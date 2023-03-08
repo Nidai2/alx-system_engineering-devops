@@ -3,3 +3,5 @@
 1-listit script, prints out the files and folders in current directory
 
 2-bring_me_home, changes the working directory to the home directory
+
+3-listfiles, prints out a verbose output of the files and folders in current directory
